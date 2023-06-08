@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ramnayan501)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramnayan699@gmail.com)
 
-<!---### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SalmanAhmd&style=flat-square&color=0088cc)-->
+<!---### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=RamnayanYadav&style=flat-square&color=0088cc)-->
 
 I'm a Frontend Developer 👨‍💻. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore 👀 new technologies and leverage them to solve real-life problems. 🌱I'm currently into Mobile App  Development  and working on my Data Structures and Algorithms(DSA</>).
 
