@@ -7,6 +7,7 @@
 
 <!---### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SalmanAhmd&style=flat-square&color=0088cc)-->
 
+I'm a Frontend Developer 👨‍💻. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Mobile App  Development  and working on my Data Structures and Algorithms(DSA</>).
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ram-1234](https://github.com/Ram-1234)
 
