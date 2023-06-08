@@ -1,4 +1,4 @@
-## Hi, I'm Ramnayan Yadav, Front Developer 👨‍💻 from India.
+## Hi, I'm Ramnayan Yadav, Frontend Developer 👨‍💻 from India.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ram-1234/ramnayan__699)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramnayan-yadav-33371b165/)
