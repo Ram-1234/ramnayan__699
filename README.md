@@ -5,6 +5,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ramnayan501)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramnayan699@gmail.com)
 
+<!---### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SalmanAhmd&style=flat-square&color=0088cc)-->
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/Ram-1234](https://github.com/Ram-1234)
 
 - 💬 Ask me about **javascript, react & react native**
