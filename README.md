@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ramnayan yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi, I'm Ramnayan Yadav, a Front Developer 👨‍💻 from India.
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ram-1234/ramnayan__699)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramnayan-yadav-33371b165/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ramnayan501)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramnayan699@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ram-1234&label=Profile%20views&color=0e75b6&style=flat" alt="ram-1234" /> </p>
 
